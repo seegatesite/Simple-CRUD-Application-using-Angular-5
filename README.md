@@ -1,3 +1,9 @@
+# How to
+
+Download server api at https://github.com/seegatesite/lumen-5.6-API-resto-pjx-example
+
+Read tutorial at https://seegatesite.com
+
 # Restopjx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
